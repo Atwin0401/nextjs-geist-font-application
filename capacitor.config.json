@@ -1,0 +1,6 @@
+{
+  "appId": "com.pawly.app",
+  "appName": "PAWLY1",
+  "webDir": "out",
+  "bundledWebRuntime": false
+}
